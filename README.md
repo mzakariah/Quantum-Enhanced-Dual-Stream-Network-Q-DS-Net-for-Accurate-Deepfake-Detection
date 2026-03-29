@@ -1,0 +1,1 @@
+The suggested architecture incorporates a spatial stream for fine-grained visual artifact learning and a temporal stream for motion inconsistency modeling, and quantum-enhanced convolution modules are proposed to improve the representation of weak forensic traces that traditional feature extractors may fail to capture. it gets an accuracy of 99.89 
